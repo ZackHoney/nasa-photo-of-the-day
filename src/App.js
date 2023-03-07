@@ -1,6 +1,6 @@
 import React, {useState, useEffect} from "react";
 import axios from 'axios';
-import NasaPhoto from './Components/NasaPhoto'
+import NasaPhoto from './Components/NasaPhoto';
 import "./App.css";
 
 
